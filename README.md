@@ -116,3 +116,22 @@ DROP COLUMN row_num;
 ```
 ---
 
+## Conclusion & Next Steps
+
+After cleaning and preparing the layoff dataset, we now have a well-structured, standardized table that is ready for exploration and analysis. Duplicate entries were removed, inconsistent formats were corrected, missing values were addressed, and key fields were normalized for reliable use.
+
+This cleaned dataset provides a solid foundation for deeper insights into global layoff trends, including:
+
+- Tracking layoffs over time
+- Identifying which industries are most impacted
+- Analyzing layoffs by region or country
+- Exploring company-level layoff behavior
+
+### Next Steps
+
+- Perform **Exploratory Data Analysis (EDA)** to uncover trends and outliers  
+- Build **visual dashboards** using Tableau or Power BI  
+- Create **SQL queries or Python scripts** to answer key business questions  
+- Build **predictive models** to anticipate future layoffs based on trends  
+
+This project will continue to develop as more time is dedicated to deeper analysis and visualization.
