@@ -1,4 +1,4 @@
-# World-Wide-Layoffs Cleaning Project
+# World Wide Layoffs Cleaning Project
 
 ## Data Cleaning Process
 
